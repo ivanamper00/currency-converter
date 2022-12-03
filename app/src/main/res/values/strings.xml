@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Currency converter</string>
+    <string name="my_balances">My Balances</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="sell">Sell</string>
+    <string name="received">Received</string>
+    <string name="success_message">Currency converted</string>
+    <string name="success_description">You have converted %1$s %2$s to %3$s %4$s. Commission Fee - %5$s %6$s.</string>
+    <string name="error_label">Error</string>
+    <string name="exit_label">Exit</string>
+    <string name="two_concat">%1$s %2$s</string>
+    <string name="submit">Submit</string>
+    <string name="no_internet">Internet connection error</string>
+    <string name="retry">Retry</string>
+    <string name="commission">Commission fee: %1$s %2$s</string>
+    <string name="plus_amount">+ %1$s</string>
+    <string name="minus_amount">- %1$s</string>
+    <string name="no_internet_error_message">No internet connection. Please check your internet connection.</string>
+</resources>
