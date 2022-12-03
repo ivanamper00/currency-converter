@@ -15,5 +15,6 @@ Tech stack :
  - Retrofit
  - Dagger-hilt
  - Clean Architecture
- 
+ - Coroutines
+
  Duration: 8hrs
