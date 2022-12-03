@@ -16,4 +16,4 @@ Tech stack :
  - Dagger-hilt
  - Clean Architecture
  
- 
+ Duration: 8hrs
