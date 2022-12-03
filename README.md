@@ -16,5 +16,6 @@ Tech stack :
  - Dagger-hilt
  - Clean Architecture
  - Coroutines
+ - MVVM
 
  Duration: 8hrs
